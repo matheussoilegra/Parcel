@@ -1,0 +1,17 @@
+{
+  "name": "Parcel",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "parcel src/index.html",
+    "prod": "parcel build src/index.html"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.4",
+    "sass": "^1.23.0"
+  },
+  "dependencies": {
+    "scrollmagic": "^2.0.7"
+  }
+}
